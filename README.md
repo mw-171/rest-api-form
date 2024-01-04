@@ -1,5 +1,6 @@
 # immigr8form
-simple CRUD app using react, springboot, and postgresql  
+simple full-stack CRUD app using react, springboot, and postgresql  
+used [Postman Client](https://web.postman.co/) to test backend workings  
 
 >started on 12/22/23  
   
