@@ -40,7 +40,7 @@ public class User {
   public int getClientId() {
 		return client_id;
 	}
-	public void setClientId(int client_id) {
+	public void setSelectedClientId(int client_id) {
 		this.client_id = client_id;
 	}
 
