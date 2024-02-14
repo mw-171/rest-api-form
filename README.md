@@ -1,4 +1,4 @@
-# immigr8form
+# Rest API form
 simple full-stack CRUD app using react, springboot, and postgresql  
 used [Postman Client](https://web.postman.co/) to test backend workings  
 
